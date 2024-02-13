@@ -59,7 +59,7 @@
   <button class="add_new" aria-label="Add New"><span></span><span></span></button>
   <script>
     const select = document.getElementById("select_day");
-    select.value = <%= day %>
+    select.value = "<%= day %>"
     select.addEventListener("change", (event) => {
       console.log(select.value)
       window.location.href = `/?day=${select.value}`
