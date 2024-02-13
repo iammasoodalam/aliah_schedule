@@ -1,0 +1,110 @@
+[
+  [
+    {
+      "timeFrom": "10:50",
+      "timeTo": "12:30",
+      "subject": "Mentorship",
+      "courseCode": "CSEUGPC06",
+      "professor": "Moumita Chatterjee"
+    },
+    {
+      "timeFrom": "12:30",
+      "timeTo": "1:20",
+      "subject": "Principal of Communication Systems",
+      "courseCode": "ECEUGOE02",
+      "professor": "ECE"
+    },
+    {
+      "timeFrom": "1:50",
+      "timeTo": "2:40",
+      "subject": "Object Oriented Programming Systems",
+      "courseCode": "CSEUGPC05",
+      "professor": "Ahsan Mullick"
+    },
+    {
+      "timeFrom": "01:50",
+      "timeTo": "03:30",
+      "subject": "Probability & Statistics",
+      "courseCode": "MATUGBS05",
+      "professor": "MATHS"
+    }
+  ],
+  [
+    {
+      "timeFrom": "10:00",
+      "timeTo": "11:40",
+      "subject": "Environmental Science",
+      "courseCode": "UCCUGMC02",
+      "professor": "Ahsan Mullick"
+    },
+    {
+      "timeFrom": "11:40",
+      "timeTo": "12:30",
+      "subject": "Object Oriented Programming Systems",
+      "courseCode": "CSEUGPC05",
+      "professor": "Ahsan Mullick"
+    },
+    {
+      "timeFrom": "01:50",
+      "timeTo": "04:20",
+      "subject": "Computer Organization & Architecture Lab",
+      "courseCode": "CSEUGPC08",
+      "professor": "Moumita Chatterjee"
+    }
+  ],
+  [
+    {
+      "timeFrom": "11:40",
+      "timeTo": "1:20",
+      "subject": "Principal of Communication Systems",
+      "courseCode": "ECEUGOE02",
+      "professor": "ECE"
+    },
+    {
+      "timeFrom": "1:50",
+      "timeTo": "4:20",
+      "subject": "Object Oriented Programming Lab",
+      "courseCode": "CSEUGPC07",
+      "professor": "Ahsan Mullick"
+    }
+  ],
+  [
+    {
+      "timeFrom": "10:50",
+      "timeTo": "01:20",
+      "subject": "Scripting Lab ",
+      "courseCode": "CSEUGPC09",
+      "professor": "Dr. Zeenat Rehena"
+    },
+    {
+      "timeFrom": "01:50",
+      "timeTo": "03:30",
+      "subject": "Probability & Statistics",
+      "courseCode": "MATUGBS05",
+      "professor": "MATHS"
+    },
+    {
+      "timeFrom": "2:40",
+      "timeTo": "4:20",
+      "subject": "Computer Organization & Architecture ",
+      "courseCode": "CSEUGPC06",
+      "professor": "Moumita Chatterjee"
+    }
+  ],
+  [
+    {
+      "timeFrom": "11:40",
+      "timeTo": "12:30",
+      "subject": "Computer Organization & Architecture ",
+      "courseCode": "CSEUGPC06",
+      "professor": "Moumita Chatterjee"
+    },
+    {
+      "timeFrom": "01:50",
+      "timeTo": "03:30",
+      "subject": "Biology For Engineers",
+      "courseCode": "BIOUGBS01",
+      "professor": "BIO"
+    }
+  ]
+]

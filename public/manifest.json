@@ -1,0 +1,22 @@
+{
+  "name": "Schedule - Aliah University",
+  "short_name": "Schedule",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#232323",
+  "theme_color": "#232323",
+  "description": "An application to provide next day schedule by the Class Representative to the students after confirming it from the professors.",
+  "icons": [
+    {
+      "src": "icons/icon-144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "icons/logo_white.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ]
+}

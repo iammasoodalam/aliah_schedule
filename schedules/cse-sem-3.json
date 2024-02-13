@@ -1,0 +1,103 @@
+[
+  [
+    {
+      "timeFrom": "11:40",
+      "timeTo": "01:20",
+      "subject": "Indian Constitution",
+      "courseCode": "UCCUGAU03",
+      "professor": "Sanjit Pal"
+    },
+    {
+      "timeFrom": "01:50",
+      "timeTo": "03:30",
+      "subject": "Discrete Mathematics",
+      "courseCode": "MATUGBS04",
+      "professor": "Zafar Sarif"
+    }
+  ],
+  [
+    {
+      "timeFrom": "10:00",
+      "timeTo": "11:40",
+      "subject": "Digital Logic",
+      "courseCode": "CSEUGPC02",
+      "professor": "Dr. Sabir Ali Mondal (ECE)"
+    },
+    {
+      "timeFrom": "11:40",
+      "timeTo": "01:20",
+      "subject": "Data Structures & Algorithms",
+      "courseCode": "CSEUGPC01",
+      "professor": "Moumita Chatterjee"
+    },
+    {
+      "timeFrom": "01:50",
+      "timeTo": "04:20",
+      "subject": "Digital Logic Lab",
+      "courseCode": "CSEUGPC04",
+      "professor": "Dr. Sabir Ali Mondal (ECE)"
+    }
+  ],
+  [
+    {
+      "timeFrom": "10:00",
+      "timeTo": "10:50",
+      "subject": "Digital Logic",
+      "courseCode": "CSEUGPC02",
+      "professor": "Dr. Sabir Ali Mondal (ECE)"
+    },
+    {
+      "timeFrom": "10:50",
+      "timeTo": "12:30",
+      "subject": "Discrete Mathematics",
+      "courseCode": "MATUGBS04",
+      "professor": "Zafar Sarif"
+    },
+    {
+      "timeFrom": "12:30",
+      "timeTo": "01:20",
+      "subject": "Open Elective - II (Circuit Theory & Networks)",
+      "courseCode": "EENUGOE01",
+      "professor": "Aftab Sir"
+    }
+  ],
+  [
+    {
+      "timeFrom": "11:40",
+      "timeTo": "01:20",
+      "subject": "Open Elective - I (Numerical Methods)",
+      "courseCode": "MATUGOE01",
+      "professor": "Dr. Saiyed Umer"
+    },
+    {
+      "timeFrom": "01:50",
+      "timeTo": "04:20",
+      "subject": "Data Structures Lab",
+      "courseCode": "CSEUGPC03",
+      "professor": "Moumita Chatterjee"
+    }
+  ],
+  [
+    {
+      "timeFrom": "10:00",
+      "timeTo": "11:40",
+      "subject": "Open Elective - II (Circuit Theory & Networks)",
+      "courseCode": "EENUGOE01",
+      "professor": "Aftab Sir"
+    },
+    {
+      "timeFrom": "11:40",
+      "timeTo": "12:30",
+      "subject": "Data Structures Lab",
+      "courseCode": "CSEUGPC03",
+      "professor": "Moumita Chatterjee"
+    },
+    {
+      "timeFrom": "01:50",
+      "timeTo": "02:40",
+      "subject": "Open Elective - I (Numerical Methods)",
+      "courseCode": "MATUGOE01",
+      "professor": "Dr. Saiyed Umer"
+    }
+  ]
+]
