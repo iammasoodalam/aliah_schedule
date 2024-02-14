@@ -4,6 +4,9 @@
   "description": "An application to share next-day's time-table to the college group",
   "main": "index.js",
   "type": "module",
+  "engines": {
+    "node": "18.x"
+  },
   "scripts": {
     "dev": "nodemon index.js",
     "start": "node index.js"
@@ -13,7 +16,7 @@
     "Aliah University",
     "Schedule"
   ],
-  "author": "Mohd Masood Alam",
+  "author": "Mohammad Masood Alam",
   "license": "GPL-3.0-or-later",
   "devDependencies": {
     "nodemon": "^3.0.3",
